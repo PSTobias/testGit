@@ -1,2 +1,4 @@
 Da der Branch auf basis des Masterbranches erfolgt ist, ist auch die Datei Dokument3Master vorhanden. Die
 Datei Dokumen2.txt ist jedoch nicht da, da diese im Moment nur im "neuerBranch" geändert wurde.
+
+Hier ändern wir einfach noch etwas um mehr Commits zu bekommen.
