@@ -1,3 +1,0 @@
-Hier mal schauen wie der Branch nun konkret funktioniert.
-
-Hier alles mal etwas ändern nur zum Test.
